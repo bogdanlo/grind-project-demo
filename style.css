@@ -1,0 +1,445 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+@font-face {
+    font-family: 'Lemon Tuesday';
+    src: local('Lemon Tuesday'), local('LemonTuesday'), url('./fonts/Lemontuesday.woff2') format('woff2'), url('./fonts/Lemontuesday.woff') format('woff'), url('./fonts/Lemontuesday.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    
+	margin: 0;
+	padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+ h2, h3 {
+    text-align: center;
+}
+
+/*Div 1 - .container-1 - First Slide*/
+.container-1 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+}
+.sto-obekta {
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+.logo-right {
+    border: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.logo-left {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.navigation-brush {
+    border: 0;
+    position: absolute;
+    top: -15px;
+    max-width: 100%;
+}
+
+
+.sto-obekta-logo {
+    border: 0;
+    position: absolute;
+    top: 120px;
+    left: 600px;
+    max-width: 100%;
+}
+
+.text-1 {
+    border: 0;
+    position: absolute;
+    top: 670px;
+    left: 528px;
+    color: white;
+    font-family: inherit;
+    font-size: 18px;
+    max-width: 100%;
+}
+
+.forest-1 {
+    border: 0;
+    position: absolute;
+    bottom: -150px;
+    max-width: 100%;
+    left: 0;
+    
+}
+
+
+/*Div 2 - .container-2 - Second Slide*/
+.container-2 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    
+}
+.shipka {
+    background-repeat: no-repeat;
+    max-width: 100%;
+    
+}
+.section1-separator{
+    border: 0;
+    position: relative;
+    top: -100px;
+    max-width: 100%;
+}
+.za {
+    font-family: Lemon Tuesday;
+    font-size: 40px;
+    color: green;
+    border: 0;
+    position: absolute;
+    top: 80px;
+    left: 150px;
+}
+.kampaniata {
+    text-align: left;
+    border: 0;
+    position: absolute;
+    top: 110px;
+    left: 150px;
+}
+.text-2 {
+    text-align: left;
+    border: 0;
+    position: absolute;
+    top: 140px;
+    left: 150px;
+}
+
+.text-3 {
+    text-align: left;
+    border: 0;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+/*Div 3 - .container-3 - Third Slide*/
+.container-3 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: #F1F2F3;
+    
+}
+
+.skali-1 {
+    border: 0;
+    position: relative;;
+    top: -350px;
+    max-width: 100%;
+}
+.text-4 {
+    text-align: left;
+    float: left;
+    border: 0;
+    position: absolute;
+    top: 170px;
+    left: 350px;
+    
+}
+
+.text-5 {
+    float: right;
+    border: 0;
+    position: absolute;
+    top: 170px;
+    left: 900px;
+}
+
+.celta {
+    border: 0;
+    position: absolute;
+    top: 130px;
+    left: 720px;
+}
+
+.kakva {
+    font-family: Lemon Tuesday;
+    font-size: 40px;
+    color: green;
+    border: 0;
+    position: absolute;
+    border: 0;
+    position: absolute;
+    top: 100px;
+    left: 830px;
+}
+
+.forest-2 {
+    border: 0;
+    position: absolute;
+    bottom: 350px;
+    max-width: 100%;
+    left: 0;
+    max-height: 600px;
+    
+}
+
+.skali-2 {
+    border: 0;
+    position: relative;
+    left: 0;
+    max-width: 100%;
+    
+    top: -340px;
+    
+}
+
+
+/*Div 4 - .container-4 - Fourth Slide*/
+.container-4 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+    top: -400px;
+    height: 750px;
+}
+.skali-3 {
+    border: 0;
+    position: relative;
+    left: 0;
+    max-width: 100%;
+}
+.kakvo {
+    font-family: Lemon Tuesday;
+    font-size: 40px;
+    color: green;
+    border: 0;
+    position: absolute;
+    top: 270px;
+    left: 835px;
+}
+.predstoi {
+    border: 0;
+    position: absolute;
+    top: 310px;
+    left: 820px;
+}
+.text-6 {
+    text-align: left;
+    float: left;
+    border: 0;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+
+.text-7 {
+    float: right;
+    border: 0;
+    position: absolute;
+    top: 350px;
+    left: 900px;
+}
+
+.musala {
+    max-width: 100%;
+    background-repeat: no-repeat;
+    top: -200px;
+    position: relative;
+    
+}
+
+.separator-1 {
+    position: absolute;
+    bottom: -550px;
+    max-width: 100%;
+}
+
+/*Div 5 - .container-5 - Fifth Slide*/
+.container-5 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+    top: 250px;
+    text-align: center;
+    
+    
+}
+
+.zashto {
+    font-family: "Lemon Tuesday";
+    font-size: 35px;
+    color: green;
+    border: 0;
+    position: absolute;
+    top: -30px;
+    left: 750px;
+}
+
+.text-9 {
+    text-align: right;
+    position: absolute;
+    right: 350px;
+}
+
+.block-quotes-1 {
+    position: absolute;
+    left: 380px;
+    top: 0;
+    opacity: 0.4;
+}
+
+.block-quotes-2 {
+    position: absolute;
+    right: 400px;
+    top: 110px;
+    opacity: 0.4;
+}
+
+.blue-section {
+    max-width: 100%;
+    z-index: 1;
+}
+
+.kaliakra {
+    max-width: 100%;
+    position: absolute;
+    top: 190px;
+    
+}
+
+.separator-2 {
+    max-width: 100%;
+    position: relative;
+    top: 100px;
+}
+
+.separator-3 {
+    max-width: 100%;
+    position: relative;
+    top: -100px;
+}
+
+/*Div 6 - .container-6 - Sixth Slide*/
+
+.container-6 {
+    border: 0;
+    float: left;
+    position: relative;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+    top: 350px;
+    text-align: center;
+    
+}
+
+.kakvo-2 {
+    font-family: "Lemon Tuesday";
+    font-size: 35px;
+    color: green;
+    border: 0;
+    position: absolute;
+    top: -30px;
+    left: 750px;
+}
+.text-10 {
+    text-align: left;
+    float: left;
+    border: 0;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
+.text-11 {
+    float: right;
+    border: 0;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    text-align: left;
+}
+
+.tree-4 {
+    position: relative;
+    top: 150px;
+    max-width: 100%;
+}
+
+.tree-3 {
+    position: relative;
+    top: -120px;
+    max-width: 100%;
+}
+.tree-2 {
+    position: relative;
+    top: -450px;
+    max-width: 100%;
+}
+
+.tree-1 {
+    position: relative;
+    top: -815px;
+    max-width: 100%;
+}
+/*Sliders top CSS */
+
+.mySlider {
+    padding: 2px;
+    max-width: 100%;
+    
+}
+.singleSlide {
+    height: 1000px;
+    width: 100%;
+	position: relative;
+	z-index: 1;
+}
+
+.itemBg{
+	display: none;
+    background-repeat: no-repeat;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+.owl-prev {
+    height: 100px;
+    margin-top: -30px;
+    position: absolute;
+    top: 50%;
+    width: 110px;
+	background-size: cover;
+	background-image: url("/img/arrow-left.png");
+    
+}
+.owl-next {
+    height: 100px;
+    margin-top: -30px;
+    position: absolute;
+    top: 50%;
+    width: 110px;
+	right: 0;
+    background-size: cover;
+    background-image: url("/img/arrow-right.png");
+}
+
+
+
